@@ -27,7 +27,7 @@ const User = () => {
       <hr />
       <ul className="list-group w-50">
         <li className="list-group-item">name: {user.name}</li>
-        <li className="list-group-item">user name: {user.username}</li>
+        <li className="list-group-item">property name: {user.username}</li>
         <li className="list-group-item">email: {user.email}</li>
         <li className="list-group-item">phone: {user.phone}</li>
         <li className="list-group-item">website: {user.website}</li>

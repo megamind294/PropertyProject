@@ -6,19 +6,13 @@ const About = () => {
       <div className="py-4">
         <h1>About Page</h1>
         <p className="lead">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque rerum
-          hic ab veniam reiciendis cum repudiandae, voluptate explicabo nesciunt
-          nam accusantium? Soluta cupiditate, accusamus commodi praesentium
-          laborum dolorum libero maiores!
+          My name is Rinkle Sharma. This is a demo project on React web app.
         </p>
 
         <p className="lead">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque rerum
-          hic ab veniam reiciendis cum repudiandae, voluptate explicabo nesciunt
-          nam accusantium? Soluta cupiditate, accusamus commodi praesentium
-          laborum dolorum libero maiores!
+        In this project we can do CRUD operations using React like delete, add user, view, and edit.
         </p>
-        <p className="lead">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque rerum hic ab veniam reiciendis cum repudiandae, voluptate explicabo nesciunt nam accusantium? Soluta cupiditate, accusamus commodi praesentium laborum dolorum libero maiores!</p>
+        <p className="lead">---------------------------------Property Project!</p>
       </div>
     </div>
   );
